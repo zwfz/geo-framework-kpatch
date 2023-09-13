@@ -1,0 +1,51 @@
+include_directories(../geom ${LIBTRIANGLE_INCLUDE_DIRS})
+
+add_library(transfinite
+  rmf.cc
+  domain.cc
+    domain-regular.cc
+    domain-circle.cc
+    domain-circular.cc
+    domain-angular.cc
+  parameterization.cc
+    parameterization-bilinear.cc
+    parameterization-barycentric.cc
+    parameterization-circular.cc
+    parameterization-constrained-barycentric.cc
+    parameterization-interconnected.cc
+    parameterization-overlap.cc
+    parameterization-parallel.cc
+    parameterization-perp-polar.cc
+    parameterization-polar.cc
+    parameterization-superd.cc
+  ribbon.cc
+    ribbon-compatible.cc
+    ribbon-compatible-with-handler.cc
+    ribbon-coons.cc
+    ribbon-nsided.cc
+    ribbon-perpendicular.cc
+  surface.cc
+    surface-biharmonic.cc
+    surface-c0coons.cc
+    surface-composite-ribbon.cc
+    surface-corner-based.cc
+    surface-elastic.cc
+    surface-generalized-bezier.cc
+    surface-generalized-bezier-corner.cc
+    surface-generalized-coons.cc
+    surface-harmonic.cc
+    surface-hybrid.cc
+    surface-midpoint.cc
+    surface-midpoint-coons.cc
+    surface-nsided.cc
+    surface-polar.cc
+    surface-side-based.cc
+    surface-spatch.cc
+    surface-superd.cc
+  utilities.cc
+  ${LIBTRIANGLE_OBJECT}
+)
+
+if(LIBTRIANGLE_FOUND)
+  target_compile_definitions(transfinite PUBLIC HAVE_LIBTRIANGLE)
+endif()

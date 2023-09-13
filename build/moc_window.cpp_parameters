@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+D:/program/git download/geo-framework-main/build/moc_window.cpp
+D:/program/git download/geo-framework-main/window.hh

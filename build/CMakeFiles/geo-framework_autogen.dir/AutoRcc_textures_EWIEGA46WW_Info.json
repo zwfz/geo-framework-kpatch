@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "D:/program/git download/geo-framework-main/build/geo-framework_autogen",
+	"CMAKE_BINARY_DIR" : "D:/program/git download/geo-framework-main/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/program/git download/geo-framework-main/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/program/git download/geo-framework-main",
+	"CMAKE_SOURCE_DIR" : "D:/program/git download/geo-framework-main",
+	"INCLUDE_DIR" : "D:/program/git download/geo-framework-main/build/geo-framework_autogen/include",
+	"INCLUDE_DIR_Debug" : "D:/program/git download/geo-framework-main/build/geo-framework_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "D:/program/git download/geo-framework-main/build/geo-framework_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "D:/program/git download/geo-framework-main/build/geo-framework_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "D:/program/git download/geo-framework-main/build/geo-framework_autogen/include_Release",
+	"INPUTS" : 
+	[
+		"D:/program/git download/geo-framework-main/environment.png",
+		"D:/program/git download/geo-framework-main/isophotes.png"
+	],
+	"LOCK_FILE" : "D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : true,
+	"OPTIONS" : [ "-name", "textures" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_textures.cpp",
+	"RCC_EXECUTABLE" : "D:/ProgramData/Qt/6.6.0/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Used.txt",
+	"SETTINGS_FILE_Debug" : "D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Used_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Used_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Used_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Used_Release.txt",
+	"SOURCE" : "D:/program/git download/geo-framework-main/textures.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\program\git download\geo-framework-main\build\CMakeFiles\542f10608dec1f45dbe0f6f4eb927503\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0DA5EFFC-44DE-31C5-984D-59670AE42BFE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

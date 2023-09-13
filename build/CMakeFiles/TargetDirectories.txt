@@ -1,0 +1,3 @@
+D:/program/git download/geo-framework-main/build/CMakeFiles/geo-framework.dir
+D:/program/git download/geo-framework-main/build/CMakeFiles/ALL_BUILD.dir
+D:/program/git download/geo-framework-main/build/CMakeFiles/ZERO_CHECK.dir
